@@ -14,7 +14,7 @@ role: Department of Psychological Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: [University of Missouri](https://missouri.edu)
+- name: University of Missouri
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

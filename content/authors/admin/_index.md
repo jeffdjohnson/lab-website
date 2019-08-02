@@ -20,22 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - 
+# - 
 
 # education:
 #   courses:
-#   - course: PhD in Artificial Intelligence
-#     institution: Stanford University
-#     year: 2012
-#   - course: MEng in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2009
-#   - course: BSc in Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
-#     year: 2008
+#   - course: 
+#     institution: 
+#     year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +40,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MemoryNeuroLab
 - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-Our lab investigates the cognitive and brain processes that underlie episodic memory - a type of memory that allows people to encode and remember the events of their daily lives, as well as the sensory and contextual details that accompany those events. We combine methods from experimental psychology with neuroimaging techniques such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG). Our approach involves investigating the normal cognitive and neural function of healthy young adults, with the goal that this work can help us understand how memory is impaired by brain injury, neurological disease, and natural aging.
+Our lab studies the cognitive and brain processes that underlie episodic memory - a type of memory that allows people to encode and remember the events of their daily lives, as well as the sensory and contextual details that accompany those events. We combine methods from experimental psychology with neuroimaging techniques such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG). Our approach involves investigating the normal cognitive and neural function of healthy young adults, with the goal that this work can help us understand how memory is impaired by brain injury, developmental disorders, neurological disease, and natural aging.
 
 If you're interested in our work and would like to discuss joining the lab, please contact Dr. Johnson (johnsonjeffre@missouri.edu). The [Department of Psychological Sciences](https://psychology.missouri.edu/) at the [University of Missouri](https://missouri.edu) has a [PhD program](https://psychology.missouri.edu/grad/graduate-program) in Cognition and Neuroscience, and we also occasionally have opportunities for undergraduate research.

@@ -40,8 +40,8 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MemoryNeuroLab
-- icon: google-scholar
+  link: https://twitter.com/memoryneurolab
+#- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
@@ -63,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-Our lab studies the cognitive and brain processes that underlie episodic memory - a type of memory that allows people to encode and remember the events of their daily lives, as well as the sensory and contextual details that accompany those events. We combine methods from experimental psychology with neuroimaging techniques such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG). Our approach involves investigating the normal cognitive and neural function of healthy young adults, with the goal that this work can help us understand how memory is impaired by brain injury, developmental disorders, neurological disease, and natural aging.
+Our lab studies the cognitive and brain processes that underlie episodic memory - a type of memory that allows people to encode and remember the events of their daily lives, as well as the sensory and contextual details that accompany those events. We combine methods from experimental psychology with neuroimaging techniques such as functional magnetic resonance imaging (fMRI) and electroencephalography (EEG). Our approach involves investigating the normal cognitive and neural function of healthy young adults, with the goal that the findings can help us understand how memory is impaired by brain injury, developmental disorders, neurological disease, and natural aging.
 
-If you're interested in our work and would like to discuss joining the lab, please contact Dr. Johnson (johnsonjeffre@missouri.edu). The [Department of Psychological Sciences](https://psychology.missouri.edu/) at the [University of Missouri](https://missouri.edu) has a [PhD program](https://psychology.missouri.edu/grad/graduate-program) in Cognition and Neuroscience, and we also occasionally have opportunities for undergraduate research.
+If you're interested in our work and would like to discuss joining the lab, please contact Dr. Johnson (<johnsonjeffre@missouri.edu>). The [Department of Psychological Sciences](https://psychology.missouri.edu/) at the [University of Missouri](https://missouri.edu) has a [PhD program](https://psychology.missouri.edu/grad/graduate-program) in Cognition and Neuroscience, and we also occasionally have opportunities for undergraduate research.

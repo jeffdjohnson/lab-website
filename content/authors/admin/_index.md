@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Memory and Neuroimaging Lab
+name: 
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Memory and Neuroimaging Lab
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Department of Psychological Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Missouri
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

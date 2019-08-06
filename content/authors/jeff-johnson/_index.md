@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jeff Johnson
+name: Jeff Johnson, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -65,4 +65,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Our lab 
+#Our lab 

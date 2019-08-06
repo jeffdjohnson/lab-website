@@ -24,11 +24,14 @@ bio:
 # - 
 # - 
 
-# education:
-#   courses:
-#   - course: 
-#     institution: 
-#     year: 
+education:
+  courses:
+  - course: Associate Professor of Psychological Sciences, 2016-present
+    institution: University of Missouri
+    year: 
+  - course: Assistant Professor of Psychological Sciences, 2010-2016
+    institution: University of Missouri
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -65,4 +68,4 @@ user_groups:
 - Principal Investigator
 ---
 
-#Our lab 
+

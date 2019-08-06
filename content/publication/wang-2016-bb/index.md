@@ -31,3 +31,45 @@ url_source: ""
 ---
 
 
+
+
+
++++
+# Pub_type key
+# 0 -> 'Forthcoming',
+# 1 -> 'Preprint',
+# 2 -> 'Journal',
+# 3 -> 'Conference Proceedings',
+# 4 -> 'Book chapter',
+# 5 -> 'Thesis'
+
+# Links (optional).
+url_pdf = "papers/alicke2015conceptions.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = []
+
+[header]
+#image = "publications/alicke2015conceptions.png"
+caption = ""
++++
+
+url_pdf = "papers/bramley2018experiments.pdf"
+url_preprint = "https://psyarxiv.com/u9y4c/"
+url_code = ""
+url_dataset = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+url_custom = [{name = "Github", url = "https://github.com/neilbramley/active_physics"},
+{name = "Press: Medium", url = "https://medium.com/@NYUDataScience/quantifying-how-we-intuit-the-physical-world-f5973e021b3c"}]

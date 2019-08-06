@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Jeff Johnson, PhD
+name: John Scofield, MS
 
 # Username (this should match the folder name)
 authors:
-- jeff-johnson
+- john-scofield
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: 3rd-year PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -26,11 +26,11 @@ bio:
 
 #education:
 #  courses:
-#  - course: Associate Professor of Psychological Sciences, 2016-present
-#    institution: University of Missouri
+#  - course: 
+#    institution: 
 #    year: 
-#  - course: Assistant Professor of Psychological Sciences, 2010-2016
-#    institution: University of Missouri
+#  - course: 
+#    institution: 
 #    year: 
 
 # Social/Academic Networking
@@ -40,22 +40,22 @@ bio:
 social:
 - icon: browser
   icon_pack: fas
-  link: 'https://psychology.missouri.edu/people/johnson'
+  link: 'https://scofieldjohn.github.io/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jeffreyjohnson@missouri.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jel7c5@mail.missouri.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jeffmri
+  link: https://twitter.com/jscofield24
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=w-axuAEAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=Nb3dR6AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/jeffdjohnson
+  link: https://github.com/scofieldjohn
 - icon: osf
   icon_pack: ai
-  link: https://osf.io/tyh2n/
+  link: https://osf.io/edj7c/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigator
+- Graduate Students
 ---
 
 

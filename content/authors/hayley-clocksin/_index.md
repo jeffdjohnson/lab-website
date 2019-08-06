@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 2nd-year PhD Student (Rotating from Dr. Shawn Christ's lab)
+role: 2nd-year Rotating PhD Student (from Dr. Shawn Christ's lab)
 
 # Organizations/Affiliations
 organizations:

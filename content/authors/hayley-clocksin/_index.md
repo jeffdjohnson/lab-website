@@ -38,7 +38,7 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: browser
+- icon: link
   icon_pack: fas
   link: 'https://psychology.missouri.edu/people/clocksin'
 #- icon: envelope

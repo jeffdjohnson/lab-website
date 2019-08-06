@@ -10,10 +10,12 @@ subtitle = ""
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Principal Investigators",
+user_groups = ["Principal Investigator",
 #               "Researchers",
-               "Grad Students",
-               "Administration",
-               "Visitors",
-               "Alumni"]
+               "Graduate Students",
+               "Undergraduate Researchers",
+               "Lab Alumni"]
+#               "Administration",
+#               "Visitors",
+#               "Alumni"]
 +++

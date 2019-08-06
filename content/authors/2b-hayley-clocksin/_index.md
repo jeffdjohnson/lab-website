@@ -4,7 +4,7 @@ name: Hayley Clocksin, BA
 
 # Username (this should match the folder name)
 authors:
-- hayley-clocksin
+- 2b-hayley-clocksin
 
 # Is this the primary user of the site?
 superuser: false

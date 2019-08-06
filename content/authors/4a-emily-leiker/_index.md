@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Jeff Johnson, PhD
+name: Emily Leiker, PhD
 
 # Username (this should match the folder name)
 authors:
-- 1-jeff-johnson
+- 4a-emily-leiker
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Postdoctoral Researcher at UT-Austin
 
 # Organizations/Affiliations
 organizations:
-- name: University of Missouri
-  url: "https://missouri.edu/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -26,11 +26,11 @@ bio:
 
 #education:
 #  courses:
-#  - course: Associate Professor of Psychological Sciences, 2016-present
-#    institution: University of Missouri
+#  - course: 
+#    institution: 
 #    year: 
-#  - course: Assistant Professor of Psychological Sciences, 2010-2016
-#    institution: University of Missouri
+#  - course: 
+#    institution: 
 #    year: 
 
 # Social/Academic Networking
@@ -40,22 +40,13 @@ bio:
 social:
 - icon: link
   icon_pack: fas
-  link: 'https://psychology.missouri.edu/people/johnson'
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:jeffreyjohnson@missouri.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'https://sites.utexas.edu/dunsmoorlab/people/'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jeffmri
+  link: https://twitter.com/neuroimgur
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=w-axuAEAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jeffdjohnson
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/tyh2n/
+  link: https://scholar.google.com/citations?user=vGLB-4sAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigator
+- Lab Alumni
 ---
 
 

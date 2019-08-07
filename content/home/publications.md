@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
  
 title = "Recent Publications"
-subtitle = "test [link](https://missouri.edu/)" 
+subtitle = "" 
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -18,7 +18,7 @@ subtitle = "test [link](https://missouri.edu/)"
   count = 4
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"

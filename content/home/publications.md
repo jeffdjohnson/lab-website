@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
  
 title = "Featured Publications"
-subtitle = "[SEE ALL PUBLICATIONS >](https://memoryneurolab.netlify.com/publication/)" 
+subtitle = "" 
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 4
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0

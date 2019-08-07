@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
 phone = ""
-address = ""
+address = "**Dept:** [address](https://goo.gl/maps/babT2C7AuGm4jVDZA) or **Lab:** [address](https://goo.gl/maps/iGh22k3qHc4nYp8j8)"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>

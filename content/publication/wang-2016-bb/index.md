@@ -17,7 +17,6 @@ featured: false
 publication: "*Cerebral Cortex*"
 tags: ["MVPA; aging; episodic memory; fMRI"]
 
-# Links (optional).
 url_pdf: ""
 url_preprint: ""
 url_code: ""
@@ -27,6 +26,6 @@ url_slides: ""
 url_video: ""
 url_poster: ""
 url_source: ""
-url_custom = [{name = "Github", url = "https://github.com/neilbramley/active_physics"},
-{name = "Press: Medium", url = "https://medium.com/@NYUDataScience/quantifying-how-we-intuit-the-physical-world-f5973e021b3c"}]
+#url_custom = [{name = "Github", url = "https://github.com/neilbramley/active_physics"},
+#{name = "Press: Medium", url = "https://medium.com/@NYUDataScience/#quantifying-how-we-intuit-the-physical-world-f5973e021b3c"}]
 ---

@@ -73,10 +73,10 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "memoryneurolab@gmail.com", link = "mailto:memoryneurolab@gmail.com"},
+  {icon = "envelope", icon_pack = "fas", name = "[memoryneurolab@gmail.com](mailto:memoryneurolab@gmail.com) or [jeffreyjohnson@missouri.edu](mailto:jeffreyjohnson@missouri.edu)", link = ""},
   {icon = "twitter", icon_pack = "fab", name = "Message us on Twitter", link = "https://twitter.com/memoryneurolab"},
-  {icon = "map-marker-alt", icon_pack = "fas", name = "**Department:** [210 McAlester Hall, Columbia, Missouri, 65211, USA](https://goo.gl/maps/babT2C7AuGm4jVDZA)", link = ""},
-  {icon = "map-marker-alt", icon_pack = "fas", name = "Lab: 125 Psychology Building, Columbia, Missouri, 65211, USA", link = "https://goo.gl/maps/iGh22k3qHc4nYp8j8"},
+  {icon = "map-marker-alt", icon_pack = "fas", name = "**Department:** [210 McAlester Hall, Columbia, Missouri, 65211, USA](https://goo.gl/maps/babT2C7AuGm4jVDZA)"},
+  {icon = "map-marker-alt", icon_pack = "fas", name = "**Lab:** [125 Psychology Building, Columbia, Missouri, 65211, USA](https://goo.gl/maps/iGh22k3qHc4nYp8j8)", link = ""},
 ]
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},

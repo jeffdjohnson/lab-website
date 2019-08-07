@@ -75,7 +75,7 @@ appointment_url = ""
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "memoryneurolab@gmail.com", link = "mailto:memoryneurolab@gmail.com"},
   {icon = "twitter", icon_pack = "fab", name = "Message us on Twitter", link = "https://twitter.com/memoryneurolab"},
-  {icon = "map-marker-alt", icon_pack = "fas", name = "**Department:** 210 McAlester Hall, Columbia, Missouri, 65211, USA", link = "https://goo.gl/maps/babT2C7AuGm4jVDZA"},
+  {icon = "map-marker-alt", icon_pack = "fas", name = "**Department:** [210 McAlester Hall, Columbia, Missouri, 65211, USA](https://goo.gl/maps/babT2C7AuGm4jVDZA)", link = ""},
   {icon = "map-marker-alt", icon_pack = "fas", name = "Lab: 125 Psychology Building, Columbia, Missouri, 65211, USA", link = "https://goo.gl/maps/iGh22k3qHc4nYp8j8"},
 ]
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},

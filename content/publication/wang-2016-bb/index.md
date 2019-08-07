@@ -8,6 +8,7 @@
 # 5 -> 'Thesis'
 
 title: "The Effects of Age on the Neural Correlates of Recollection Success, Recollection-Related Cortical Reinstatement, and Post-Retrieval Monitoring"
+doi: https://doi.org/10.1093/cercor/bhu333
 date: 2016-04-01
 publishDate: 2019-08-06T20:28:31.999475Z
 authors: ["Tracy H Wang", "Jeffrey D Johnson", "Marianne de Chastelaine", "Brian E Donley", "Michael D Rugg"]

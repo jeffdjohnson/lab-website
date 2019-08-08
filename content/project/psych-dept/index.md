@@ -1,6 +1,4 @@
 ---
-title: 
-summary: 
 tags:
 - Resources
 date: ""

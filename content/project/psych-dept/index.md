@@ -1,14 +1,14 @@
 ---
-title: Department of Psychological Sciences
-summary: University of Missouri
+title: 
+summary: 
 tags:
-- Other
+- Resources
 date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://psychology.missouri.edu
 
 image:
-  caption: 
+  caption: Department of Psychological Sciences
   focal_point: 
 ---

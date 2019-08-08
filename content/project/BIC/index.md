@@ -2,7 +2,7 @@
 title: Brain Imaging Center
 summary: Department of Psychologial Sciences, University of Missouri
 tags:
-- Other
+- Resources
 date: ""
 
 # Optional external URL for project (replaces project detail page).

@@ -1,12 +1,12 @@
 ---
-title: Dr. Nelson Cowan
-summary: University of Missouri
+title: Disability Center
+summary: 
 tags:
-- Collaborators
+- Resources
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://memory.psych.missouri.edu
+external_link: https://disabilitycenter.missouri.edu
 
 image:
   caption: 

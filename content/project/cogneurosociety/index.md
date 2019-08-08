@@ -2,7 +2,7 @@
 title: Cognitive Neuroscience Society
 summary: 
 tags:
-- Other
+- Societies
 date: ""
 
 # Optional external URL for project (replaces project detail page).

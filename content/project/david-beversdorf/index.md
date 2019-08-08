@@ -1,6 +1,6 @@
 ---
-title: Cognitive Neuroscience Laboratory
-summary: Dr. David Beversdorf, University of Missouri
+title: Dr. David Beversdorf
+summary: University of Missouri
 tags:
 - Collaborators
 date: ""

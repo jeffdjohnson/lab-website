@@ -2,7 +2,7 @@
 title: Association for Psychological Science
 summary: 
 tags:
-- Other
+- Societies
 date: ""
 
 # Optional external URL for project (replaces project detail page).

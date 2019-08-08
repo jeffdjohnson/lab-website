@@ -1,6 +1,6 @@
 ---
-title: Functional Neuroimaging of Memory Laboratory
-summary: Dr. Michael Rugg, University of Texas at Dallas
+title: Dr. Michael Rugg
+summary: University of Texas at Dallas
 tags:
 - Collaborators
 date: ""

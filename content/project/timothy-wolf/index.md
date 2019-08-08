@@ -1,6 +1,6 @@
 ---
-title: Performance, Participation and Neurorehabilitation Laboratory
-summary: Dr. Timothy Wolf, University of Missouri
+title: Dr. Timothy Wolf
+summary: University of Missouri
 tags:
 - Collaborators
 date: ""

@@ -1,12 +1,12 @@
 ---
-title: Dr. Evie Vergauwe
-summary: University of Geneva
+title: Dr. Ed Merkle
+summary: University of Missouri
 tags:
 - Collaborators
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://evievergauwe.wordpress.com
+external_link: https://psychology.missouri.edu/people/merkle
 
 image:
   caption: 

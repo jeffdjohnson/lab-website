@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "# Memory and Neuroimaging Lab<br/><br/><br/>"
+title = "# Memory and Neuroimaging Lab<br/>## Department of Psychological Sciences<br/>## University of Missouri"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "MNL-Logo-rgb-400ht.png"

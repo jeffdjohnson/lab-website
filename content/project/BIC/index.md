@@ -1,6 +1,6 @@
 ---
 title: Brain Imaging Center
-summary: Department of Psychologial Sciences, University of Missouri
+summary: Department of Psychologial Sciences
 tags:
 - Resources
 date: ""

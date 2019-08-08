@@ -1,5 +1,5 @@
 ---
-title: NSF NeuroReu Project
+title: NSF Neuro-REU Project
 summary: Summer Research Experiences for Undergraduates in Neuroscience
 tags:
 - Resources

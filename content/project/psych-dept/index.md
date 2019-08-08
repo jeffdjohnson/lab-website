@@ -1,6 +1,6 @@
 ---
-title: 
-summary: Department of Psychological Sciences
+title: Department of Psychological Sciences
+summary: 
 tags:
 - Resources
 date: ""

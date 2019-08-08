@@ -1,5 +1,5 @@
 ---
-title: Interdisciplinary Neuroscience Program
+title: Inter- disciplinary Neuroscience Program
 summary: Graduate Studies in Neuroscience at the University of Missouri
 tags:
 - Resources

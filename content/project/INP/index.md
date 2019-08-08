@@ -1,12 +1,12 @@
 ---
-title: Working-Memory Laboratory
-summary: Dr. Nelson Cowan, University of Missouri
+title: Interdisciplinary Neuroscience Program
+summary: Graduate Studies in Neuroscience at the University of Missouri
 tags:
-- Collaborators
+- Other
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://memory.psych.missouri.edu
+external_link: https://neuroscience.missouri.edu
 
 image:
   caption: 

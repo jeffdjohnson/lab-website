@@ -1,5 +1,5 @@
 ---
-title: Dr. David Beversdorf
+title: David Beversdorf
 summary: University of Missouri
 tags:
 - Collaborators

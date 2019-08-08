@@ -1,5 +1,5 @@
 ---
-title: Dr. Shawn Christ
+title: Shawn Christ
 summary: University of Missouri
 tags:
 - Collaborators

@@ -1,5 +1,5 @@
 ---
-title: Dr. Timothy Wolf
+title: Timothy Wolf
 summary: University of Missouri
 tags:
 - Collaborators

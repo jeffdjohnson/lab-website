@@ -1,5 +1,5 @@
 ---
-title: Dr. Evie Vergauwe
+title: Evie Vergauwe
 summary: University of Geneva
 tags:
 - Collaborators

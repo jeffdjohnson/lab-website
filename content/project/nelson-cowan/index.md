@@ -1,5 +1,5 @@
 ---
-title: Dr. Nelson Cowan
+title: Nelson Cowan
 summary: University of Missouri
 tags:
 - Collaborators

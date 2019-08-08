@@ -1,5 +1,5 @@
 ---
-title: Dr. David Geary
+title: David Geary
 summary: University of Missouri
 tags:
 - Collaborators

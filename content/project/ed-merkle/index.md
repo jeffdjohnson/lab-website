@@ -1,5 +1,5 @@
 ---
-title: Dr. Ed Merkle
+title: Ed Merkle
 summary: University of Missouri
 tags:
 - Collaborators

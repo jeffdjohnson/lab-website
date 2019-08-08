@@ -1,5 +1,5 @@
 ---
-title: Dr. Michael Rugg
+title: Michael Rugg
 summary: University of Texas at Dallas
 tags:
 - Collaborators

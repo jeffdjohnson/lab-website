@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "<span style="font-family:Papyrus; font-size:4em;">Memory and Neuroimaging Lab</span>"
+title = "# Memory and Neuroimaging Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"

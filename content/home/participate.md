@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "<h1>Get involved as a participant!</h1><p><h3>We use [SONA](https://missouri.sona-systems.com/) to recruit subjects for behavioral, EEG, and fMRI studies. If you're in the PSYCH 1000 subject pool and would like to sign up, look for our current projects entitled *fMRI Study of Human Memory* and *EEG Study of Human Memory*.</h3>"
+title = "<h1>Get involved as a participant!</h1><p>We use [SONA](https://missouri.sona-systems.com/) to recruit subjects for behavioral (computer-based), EEG, and fMRI studies. If you're in the PSYCH 1000 subject pool and would like to sign up, click on the button(s) below."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -34,8 +34,8 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://missouri.sona-systems.com/"
-  label = "**Sign up on SONA**"
+  url = "https://missouri.sona-systems.com/default.aspx?p_return_experiment_id=1735"
+  label = "**Behavioral Study**"
   icon_pack = "fas"
   icon = "link"
   

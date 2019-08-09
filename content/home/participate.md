@@ -46,6 +46,6 @@ hero_media = ""
 #  icon = "link"
 
 [cta_note]
-  label = "If you're not in the MU PSYCH 1000 subject pool and would still like to participate, please email us at <memoryneurolab@gmail.com> to find out if you fit our inclusion criteria."
+  label = "<h6>If you're not in the MU PSYCH 1000 subject pool and would still like to participate, please email us at <memoryneurolab@gmail.com> to find out if you fit our inclusion criteria.</h6>"
 
 +++

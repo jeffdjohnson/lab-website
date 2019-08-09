@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "<h1>Get involved as a participant!</h1><p>We use [SONA](https://missouri.sona-systems.com/) to recruit subjects for behavioral (computer-based), EEG, and fMRI studies. If you're in the PSYCH 1000 subject pool and would like to sign up, click on the button(s) below."
+title = "<h1>Get involved as a participant!</h1><p>We use the SONA System to recruit subjects for behavioral (computer-based), EEG, and fMRI studies.<p>If you're in the MU PSYCH 1000 subject pool and would like to sign up, click the button(s) below."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -42,5 +42,8 @@ hero_media = ""
 [cta_alt]
   url = "https://memoryneurolab.netlify.com/publication/"
   label = "Check out our publications"
+
+[cta_note]
+  label = "If you're not in the MU PSYCH 1000 subject pool and would still like to participate, please email us at <memoryneurolab@gmail.com> to find out if you fit our inclusion criteria."
 
 +++

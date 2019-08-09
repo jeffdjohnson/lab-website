@@ -8,7 +8,7 @@ weight = 40  # Order that this section will appear.
 title = "<h1>Memory and Neuroimaging Laboratory</h1><p><h2>[Department of Psychological Sciences](https://psychology.missouri.edu/) | [University of Missouri](https://missouri.edu/)</h2>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "participate.png"
+hero_media = "participate.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

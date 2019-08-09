@@ -8,7 +8,7 @@ weight = 40  # Order that this section will appear.
 title = "<h1>Memory and Neuroimaging Laboratory</h1><p><h2>[Department of Psychological Sciences](https://psychology.missouri.edu/) | [University of Missouri](https://missouri.edu/)</h2>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "participate.jpg"
+hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -23,9 +23,9 @@ hero_media = "participate.jpg"
   # gradient_start = "#4bb4e3"
   # gradient_end = "#2b94c3"
   
-  # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+ # Background image.
+ image = "participate.jpg"  # Name of image in `static/img/`.
+ image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false

@@ -35,7 +35,7 @@ hero_media = "MNL-Logo-rgb-400ht.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://twitter.com/memoryneurolab/"
-  label = "Follow us!"
+  label = "**Follow us!**"
   icon_pack = "fab"
   icon = "twitter"
   

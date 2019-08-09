@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: University of Missouri
-  url: "https://missouri.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

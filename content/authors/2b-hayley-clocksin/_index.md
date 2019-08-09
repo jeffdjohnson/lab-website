@@ -15,7 +15,7 @@ role: 2nd-year Rotating PhD Student (from Dr. Shawn Christ's lab)
 # Organizations/Affiliations
 organizations:
 - name: University of Missouri
-  url: "https://missouri.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

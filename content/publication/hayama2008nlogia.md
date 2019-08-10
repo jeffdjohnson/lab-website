@@ -1,11 +1,15 @@
 ---
 # Pub_type key
-# 0 -> 'Forthcoming',
-# 1 -> 'Preprint',
-# 2 -> 'Journal',
-# 3 -> 'Conference Proceedings',
-# 4 -> 'Book chapter',
-# 5 -> 'Thesis'
+# 0 -> 'pub_uncat',
+# 1 -> 'pub_conf',
+# 2 -> 'pub_journal',
+# 3 -> 'pub_preprint',
+# 4 -> 'pub_report',
+# 5 -> 'pub_book'
+# 6 -> 'pub_book_section'
+# 7 -> 'pub_thesis'
+# 8 -> 'pub_patent'
+
 publication_types: ["2"]
 featured: false
 

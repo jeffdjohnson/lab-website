@@ -9,7 +9,7 @@
 publication_types: ["2"]
 featured: false
 
-title: "The Effects of Age on the Neural Correlates of Recollection Success, Recollection-Related Cortical Reinstatement, and Post-Retrieval Monitoring"
+title: "The effects of age on the neural correlates of recollection success, recollection-related cortical reinstatement, and post-retrieval monitoring"
 doi: 10.1093/cercor/bhu333
 date: 2016-04-01
 authors: ["Tracy H Wang", "Jeffrey D Johnson", "Marianne de Chastelaine", "Brian E Donley", "Michael D Rugg"]

@@ -9,7 +9,7 @@
 publication_types: ["2"]
 featured: false
 
-title: "With great expectations, can two *wrongs* prime a *right*?"
+title: "With great expectations, can two 'wrongs' prime a 'right'?"
 doi: 10.1037/0278-7393.27.6.1451
 date: 2001
 authors: ["Keith A Hutchison", "James H Neely", "Jeffrey D Johnson"]

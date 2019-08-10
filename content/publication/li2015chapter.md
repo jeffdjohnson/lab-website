@@ -6,7 +6,7 @@
 # 3 -> 'Conference Proceedings',
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
-publication_types: ["4"]
+publication_types: ["6"]
 featured: false
 
 title: "Attention and memory"

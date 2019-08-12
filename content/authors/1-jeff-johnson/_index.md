@@ -71,4 +71,19 @@ user_groups:
 - Meet our team
 ---
 
++++
+
+## Contact 
+
+__Email__: jeffreyjohnson@missouri.edu   
+__Office__: 21 McAlester Hall, Department of Psychological Sciences
+
+## Research interests 
+
+- episodic memory
+
+## Teaching 
+
+- Fall 2019: Cognitive Neuroscience 
+
 

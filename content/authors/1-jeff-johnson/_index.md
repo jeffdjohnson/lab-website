@@ -72,15 +72,23 @@ user_groups:
 ---
 
 ## Contact 
-
-__Email__: jeffreyjohnson@missouri.edu   
-__Office__: 21 McAlester Hall, Department of Psychological Sciences
-
-## Research interests 
-
-- episodic memory
+**Email:** jeffreyjohnson@missouri.edu   
+**Office:** 21 McAlester Hall, Department of Psychological Sciences
 
 ## Teaching 
-- Fall 2019: Cognitive Neuroscience 
+- Fall 2019: Cognitive Neuroscience (PSYCH 4240, Undergraduate)
+- Fall 2019/Spring 2020: Cognition & Neuroscience Seminar (PSYCH 9120, Graduate)
 
+## Current research interests 
+- episodic memory
+- memory retrieval strategy (mode, orienting, monitoring)
+- hippocampal involvement in memory
+- roles of time and context in memory
+- neuroimaging methods (MRI, fMRI, EEG/ERPs)
 
+## Employment 
+- 2016-present: Associate Professor, Department of Psychological Sciences, University of Missouri
+- 2012-present: Faculty, Interdisciplinary Neuroscience Program, University of Missouri
+
+## Education 
+- episodic memory

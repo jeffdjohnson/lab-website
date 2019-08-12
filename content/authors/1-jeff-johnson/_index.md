@@ -71,10 +71,11 @@ user_groups:
 - Meet our team
 ---
 
-Associate Professor, Department of Psychological Sciences, University of Missouri
-Faculty, Interdisciplinary Neuroscience Program, University of Missouri
+## Current position
+- 2016-present: Associate Professor, Department of Psychological Sciences, University of Missouri
+- 2012-present: Faculty, Interdisciplinary Neuroscience Program, University of Missouri
 
-## Contact 
+### Contact 
 **Email:** jeffreyjohnson@missouri.edu   
 **Office:** 21 McAlester Hall, Department of Psychological Sciences
 

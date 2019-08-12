@@ -79,7 +79,7 @@ user_groups:
 **Email:** jeffreyjohnson@missouri.edu   
 **Office:** 21 McAlester Hall, Department of Psychological Sciences
 
-## Teaching 
+#### Teaching 
 - Fall 2019: Cognitive Neuroscience (PSYCH 4240, Undergraduate)
 - Fall 2019/Spring 2020: Cognition & Neuroscience Seminar (PSYCH 9120, Graduate)
 

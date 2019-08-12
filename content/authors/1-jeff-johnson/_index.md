@@ -14,7 +14,7 @@ role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
-- name: University of Missouri
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

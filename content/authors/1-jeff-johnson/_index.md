@@ -71,6 +71,9 @@ user_groups:
 - Meet our team
 ---
 
+Associate Professor, Department of Psychological Sciences, University of Missouri
+Faculty, Interdisciplinary Neuroscience Program, University of Missouri
+
 ## Contact 
 **Email:** jeffreyjohnson@missouri.edu   
 **Office:** 21 McAlester Hall, Department of Psychological Sciences
@@ -86,9 +89,9 @@ user_groups:
 - roles of time and context in memory
 - neuroimaging methods (MRI, fMRI, EEG/ERPs)
 
-## Employment 
-- 2016-present: Associate Professor, Department of Psychological Sciences, University of Missouri
-- 2012-present: Faculty, Interdisciplinary Neuroscience Program, University of Missouri
+## Past employment 
+- 2010-2016: Assistant Professor, Department of Psychological Sciences, University of Missouri
+- 2008-2010: Research Specialist, Center for the Neurobiology of Learning and Memory, University of California-Irvine
 
 ## Education 
 - episodic memory

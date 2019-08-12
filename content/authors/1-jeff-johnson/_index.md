@@ -71,7 +71,7 @@ user_groups:
 - Meet our team
 ---
 
-## Current position
+## Current positions
 - 2016-present: Associate Professor, [Department of Psychological Sciences](https://psychology.missouri.edu), University of Missouri
 - 2012-present: Faculty, [Interdisciplinary Neuroscience Program](https://neuroscience.missouri.edu), University of Missouri
 
@@ -85,7 +85,7 @@ user_groups:
 
 ## Research interests 
 - episodic memory
-- memory retrieval strategy (mode, orienting, monitoring)
+- memory retrieval strategies (mode, orienting, monitoring)
 - hippocampal involvement in memory
 - roles of time and context in memory
 - neuroimaging methods (MRI, fMRI, EEG/ERPs)

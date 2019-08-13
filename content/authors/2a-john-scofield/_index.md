@@ -71,4 +71,28 @@ user_groups:
 - Meet our team
 ---
 
+## Bio
+- I'm currently a graduate student at the University of Missouri. I study the neurocognitive basis of episodic memory using neuroimaging techniques. I also utilize different machine learning techniques and computational modeling to help understand the processes that support episodic retrieval. When not doing research, I spend most of my time outdoors playing sports with friends! 
+
+## Education
+- 2017-present: PhD Candidate, [Department of Psychological Sciences](https://psychology.missouri.edu), University of Missouri)
+- 2015-2017: MS Experimental Psychology, Department of Psychology, Missouri State University
+- 2015: BS Psychology, Truman State University
+
+
+## Contact 
+**Email:** <jel7c5@mail.missouri.edu>   
+**Office:** 125 Psychology Building, Department of Psychological Sciences
+
+## Teaching 
+- Research Methods in Psychology (PSYCH 3020, Undergraduate)
+
+## Research interests 
+- Episodic Memory
+- roles of time and context in memory
+- hippocampal involvement in memory
+- neuroimaging methods (MRI, fMRI, EEG/ERPs)
+- machine/deep learning methods
+
+
 

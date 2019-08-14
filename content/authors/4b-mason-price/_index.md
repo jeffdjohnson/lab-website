@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher at Univ. of Nebraska Medical Center
+role: Former PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -62,4 +62,4 @@ user_groups:
 - Lab Alumni
 ---
 
-
+Dr. Price completed his PhD training in our lab in 2018, before moving on to a Postdoctoral Fellow position at the University of Nebraska Medical Center. He is now a Postdoctoral Fellow in the [Hutchinson Lab of Cognitive Neuroscience](https://hulacon.uoregon.edu) at the University of Oregon.

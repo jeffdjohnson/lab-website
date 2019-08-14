@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Incoming PhD Student
+role: 1st-year PhD Student
 
 # Organizations/Affiliations
 organizations:

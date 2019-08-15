@@ -1,1 +1,0 @@
-Memory and Neuroimaging Laboratory

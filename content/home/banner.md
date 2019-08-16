@@ -40,7 +40,7 @@ hero_media = "MNL-Logo-rgb-400ht.png"
   icon = "twitter"
   
 [cta_alt]
-  url = "https://memoryneurolab.netlify.com/publication/"
+  url = "https://memoryneurolab.org/publication/"
   label = "Check out our publications"
 
 +++

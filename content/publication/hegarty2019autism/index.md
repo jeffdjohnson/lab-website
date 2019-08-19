@@ -13,7 +13,7 @@ publication_types: ["2"]
 featured: false
 
 title: "Beta-adrenergic antagonism alters functional connectivity during associative processing in a preliminary study of individuals with and without autism"
-doi: 
+doi: 10.1177/1362361319868633
 date: 2019-08-01
 authors: ["John P Hegarty", "Rachel M Zamzow", "Bradley J Ferguson", "Shawn E Christ", "Eric C Porges", "Jeffrey D Johnson", "David Q Beversdorf"]
 publication: "*Autism: International Journal of Research and Practice*"

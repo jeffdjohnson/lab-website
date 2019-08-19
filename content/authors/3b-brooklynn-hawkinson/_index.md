@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Brooklyn Hawkinson
+name: Brooklynn Hawkinson
 
 # Username (this should match the folder name)
 authors:
-- 3b-brooklyn-hawkinson
+- 3b-brooklynn-hawkinson
 
 # Is this the primary user of the site?
 superuser: false
@@ -70,5 +70,8 @@ email: ""
 user_groups:
 - Meet our team
 ---
+
+## Bio
+- I am a senior at the University of Missouri studying Psychology. After my undergraduate studies, I plan to attend graduate school to receive my PhD in Pediatric Neuropsychology. In my free time I enjoy spending time with my family and friends.
 
 

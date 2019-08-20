@@ -71,4 +71,10 @@ user_groups:
 - Meet our team
 ---
 
+## Bio
+- I am currently a second year graduate student in the Clinical Psychology program at the University of Missouri. I am interested in using neuroimaging techniques to investigate cognitive and neurological differences in individuals with phenylketonuria (PKU) and those with autism spectrum disorder (ASD).
+
+## Education
+- 2018 - Present: Graduate Student, [Department of Psychological Sciences](https://psychology.missouri.edu), University of Missouri
+- 2018: BA Cognitive Neuroscience, Washington University in St. Louis
 

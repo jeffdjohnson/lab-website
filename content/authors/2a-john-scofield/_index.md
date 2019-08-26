@@ -40,7 +40,7 @@ bio:
 social:
 - icon: link
   icon_pack: fas
-  link: 'https://scofieldjohn.github.io/'
+  link: 'https://jscofield.org/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jel7c5@mail.missouri.edu'  # For a direct email link, use "mailto:test@example.org".

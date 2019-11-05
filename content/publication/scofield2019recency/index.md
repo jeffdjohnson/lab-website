@@ -12,7 +12,7 @@
 publication_types: ["3"]
 featured: false
 
-title: "Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence "
+title: "Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence"
 doi: 10.1101/826693
 date: 2019-10-31
 authors: ["John E Scofield", "Mason H Price", "Angelica Flores", "Edgar C Merkle", "Jeffrey D Johnson"]

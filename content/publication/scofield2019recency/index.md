@@ -9,7 +9,7 @@
 # 6 -> 'pub_book_section'
 # 7 -> 'pub_thesis'
 # 8 -> 'pub_patent'
-publication_types: ["3"]
+publication_types: ["2"]
 featured: false
 
 title: "Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence"

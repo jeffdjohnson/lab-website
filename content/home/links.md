@@ -26,10 +26,6 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Collaborators"
-    tag = "Collaborators"
-  
-  [[content.filter_button]]
     name = "Resources"
     tag = "Resources"
 

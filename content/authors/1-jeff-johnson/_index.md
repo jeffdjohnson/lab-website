@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jeff Johnson, PhD
+name: Jeffrey Johnson, PhD
 
 # Username (this should match the folder name)
 authors:

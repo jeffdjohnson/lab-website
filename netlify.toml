@@ -5,7 +5,8 @@
 [build.environment]
   HUGO_VERSION = "0.169.0"
   HUGO_ENABLEGITINFO = "true"
-
+  GIT_SUBMODULE_STRATEGY = "recursive"
+  
 [context.production.environment]
   HUGO_ENV = "production"
 
